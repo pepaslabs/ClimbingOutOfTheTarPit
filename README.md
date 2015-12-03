@@ -84,10 +84,12 @@ Ideas:
   * Dangerous?  Minimize the danger via:
     * Minimizing the number of conditionals in the imperative shell
 
+### "Boundaries" by Gary Bernhardt
+  * [Video](https://www.destroyallsoftware.com/talks/boundaries) (SCNA 2012)
+  * [Video](https://www.youtube.com/watch?v=yTkzNHF6rMs) (RubyConf 2012)
+
 ### Backlog
 
-* "Boundaries" by Gary Bernhardt
-  * [Video](https://www.destroyallsoftware.com/talks/boundaries)
 * "Advanced Swift" by John McCall and Dave Abrahams
   * [Video](https://www.youtube.com/watch?v=g44U1937o0g)
 * "Simplicity Matters" by Rich Hickey
