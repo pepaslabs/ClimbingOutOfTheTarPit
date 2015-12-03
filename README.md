@@ -51,3 +51,6 @@ Ideas:
     * Stateless core, stateful shell
       * e.g. Model-View-ViewModel (MVVM)
 
+### "Pattern: Backends For Frontends" by Sam Newman
+
+* [Website](http://samnewman.io/patterns/architectural/bff/)
