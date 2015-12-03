@@ -100,7 +100,9 @@ Ideas:
   * [Presentation](http://www.infoq.com/presentations/Simple-Made-Easy) (requires Flash)
 * "Pattern: Backends For Frontends" by Sam Newman
   * [Website](http://samnewman.io/patterns/architectural/bff/)
-* http://www.programmableweb.com/news/how-to-enable-.net-web-api-protocol-buffer-support/how-to/2015/09/11
+* "Integration Tests Are a Scam" by J.B. Rainsberger
+  * [Presentation](http://www.infoq.com/presentations/integration-tests-scam)
+  * [Video](https://vimeo.com/80533536)
 * [How to fix a bad user interface](https://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226) by Scott Hurff
 * [Destory All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 * https://gist.github.com/jhrr/7368923
