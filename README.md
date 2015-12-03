@@ -72,6 +72,18 @@ Ideas:
     * (I don't yet fully understand this point.  Is the reasoning that it isn't worth the trouble in this case?)
   * When limited by legacy code (e.g. a framework expects an NSObject subclass)
 
+### "Functional Core, Imperative Shell" by Gary Bernhardt
+
+* [Video](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) (this video must be purchased as part of Season 4 of [Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog))
+
+Ideas:
+* Achieve mutable state while remaining functional by handing caller a mutated copy of self upon mutation
+* Isolate pure functional code into a core, wrap it with imperative shell
+* Functional core is tested (without using mocks or stubs)
+* Imperative shell is not tested (at all)
+  * Dangerous?  Minimize the danger via:
+    * Minimizing the number of conditionals in the imperative shell
+
 ### Backlog
 
 * "Advanced Swift" by John McCall and Dave Abrahams
