@@ -51,11 +51,16 @@ Ideas:
     * Stateless core, stateful shell
       * e.g. Model-View-ViewModel (MVVM)
 
-### "Pattern: Backends For Frontends" by Sam Newman
 
-* [Website](http://samnewman.io/patterns/architectural/bff/)
+### Backlog
 
-### Unsorted
-
+* "Simplicity Matters" by Rich Hickey
+  * [Video](https://www.youtube.com/watch?v=rI8tNMsozo0)
+* "The Value of Values" by Rich Hickey
+  * [Video](https://www.youtube.com/watch?v=-6BsiVyC1kM)
+* "Simple Made Easy" by Rich Hickey
+  * [Presentation](http://www.infoq.com/presentations/Simple-Made-Easy)
+* "Pattern: Backends For Frontends" by Sam Newman
+  * [Website](http://samnewman.io/patterns/architectural/bff/)
 * http://www.programmableweb.com/news/how-to-enable-.net-web-api-protocol-buffer-support/how-to/2015/09/11
 * [How to fix a bad user interface](https://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226) by Scott Hurff
