@@ -87,6 +87,7 @@ Ideas:
 ### "Boundaries" by Gary Bernhardt
   * [Video](https://www.destroyallsoftware.com/talks/boundaries) (SCNA 2012)
   * [Video](https://www.youtube.com/watch?v=yTkzNHF6rMs) (RubyConf 2012)
+  * [Video](http://pyvideo.org/video/1670/boundaries) (PyCon 2013)
 
 ### Backlog
 
