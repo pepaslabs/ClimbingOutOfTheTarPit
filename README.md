@@ -95,7 +95,7 @@ Ideas:
 * "The Value of Values" by Rich Hickey
   * [Video](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 * "Simple Made Easy" by Rich Hickey
-  * [Presentation](http://www.infoq.com/presentations/Simple-Made-Easy)
+  * [Presentation](http://www.infoq.com/presentations/Simple-Made-Easy) (requires Flash)
 * "Pattern: Backends For Frontends" by Sam Newman
   * [Website](http://samnewman.io/patterns/architectural/bff/)
 * http://www.programmableweb.com/news/how-to-enable-.net-web-api-protocol-buffer-support/how-to/2015/09/11
