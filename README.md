@@ -101,3 +101,4 @@ Ideas:
 * http://www.programmableweb.com/news/how-to-enable-.net-web-api-protocol-buffer-support/how-to/2015/09/11
 * [How to fix a bad user interface](https://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226) by Scott Hurff
 * [Destory All Software](https://www.destroyallsoftware.com/screencasts/catalog)
+* https://gist.github.com/jhrr/7368923
