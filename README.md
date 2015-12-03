@@ -86,6 +86,8 @@ Ideas:
 
 ### Backlog
 
+* "Boundaries" by Gary Bernhardt
+  * [Video](https://www.destroyallsoftware.com/talks/boundaries)
 * "Advanced Swift" by John McCall and Dave Abrahams
   * [Video](https://www.youtube.com/watch?v=g44U1937o0g)
 * "Simplicity Matters" by Rich Hickey
