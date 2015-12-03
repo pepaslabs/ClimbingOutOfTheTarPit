@@ -77,7 +77,7 @@ Ideas:
 * [Video](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) (this video must be purchased as part of Season 4 of [Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog))
 
 Ideas:
-* Achieve mutable state while remaining functional by handing caller a mutated copy of self upon mutation
+* Achieve mutable state while remaining functional by returning a mutated copy of self upon mutation
 * Isolate pure functional code into a core, wrap it with imperative shell
 * Functional core is tested (without using mocks or stubs)
 * Imperative shell is not tested (at all)
