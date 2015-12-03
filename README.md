@@ -106,6 +106,8 @@ Ideas:
   * [Video](https://vimeo.com/80533536)
 * "Less: The Path to Better Design" by Sandi Metz
   * [Video](https://vimeo.com/53154357)
+* "Williams, Master of the 'Come From'" by Reginald “raganwald” Braithwaite
+  * [Article](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/COMEFROM.md)
 * [How to fix a bad user interface](https://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226) by Scott Hurff
 * [Destory All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 * https://gist.github.com/jhrr/7368923
