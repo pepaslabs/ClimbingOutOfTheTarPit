@@ -7,6 +7,8 @@ Resources for becoming a better programmer.
 
 "I fixed one bug and several new bugs appeared."
 
+"I don't like copy/paste coding, but I don't see any other way to express this idea."
+
 "Since surpassing X lines of code, our velocity is terrible.  Implementing even a trivial change is too expensive."
 
 What is going on?  Things were going great when this software project was small, and then slowly everything fell apart.  What happened?
