@@ -54,7 +54,7 @@ Ideas:
       * e.g. Model-View-ViewModel (MVVM)
 
 
-### "Protocol-Oriented Programming in Swift" by Dave Abrahams (WWDC 2015)
+### "Protocol-Oriented Programming in Swift" by Dave Abrahams ([WWDC 2015](https://developer.apple.com/videos/wwdc2015/))
 
   * [Video](https://www.youtube.com/watch?v=g2LwFZatfTI)
   * [WWDC Resources Page](https://developer.apple.com/videos/play/wwdc2015-408/)
