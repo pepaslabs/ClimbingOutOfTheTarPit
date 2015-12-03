@@ -54,6 +54,11 @@ Ideas:
 
 ### Backlog
 
+* "Protocol-Oriented Programming in Swift" by Dave Abrahams
+  * [Video](https://www.youtube.com/watch?v=g2LwFZatfTI)
+  * [WWDC Resources Page](https://developer.apple.com/videos/play/wwdc2015-408/)
+* "Advanced Swift" by John McCall and Dave Abrahams
+  * [Video](https://www.youtube.com/watch?v=g44U1937o0g)
 * "Simplicity Matters" by Rich Hickey
   * [Video](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * "The Value of Values" by Rich Hickey
