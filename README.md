@@ -54,11 +54,26 @@ Ideas:
       * e.g. Model-View-ViewModel (MVVM)
 
 
-### Backlog
+### "Protocol-Oriented Programming in Swift" by Dave Abrahams (WWDC 2015)
 
-* "Protocol-Oriented Programming in Swift" by Dave Abrahams
   * [Video](https://www.youtube.com/watch?v=g2LwFZatfTI)
   * [WWDC Resources Page](https://developer.apple.com/videos/play/wwdc2015-408/)
+
+Ideas:
+
+* Don't use superclasses to represent abstraction (use protocols)
+* Default to using a protocol (instead of a class) whenever you can
+* Use a class when...
+  * Copying or comparing instances is problematic / doesn't make sense
+    * Value types get copied impicitly, so if that isn't workable then you need to use a reference type (e.g. a class)
+  * You need control over the instance lifetime
+    * Because value types are copied implicitly, their lifetime is often out of your control, so use a reference type if that's a problem.
+  * Instances are just "sinks"
+    * (I don't yet fully understand this point.  Is the reasoning that it isn't worth the trouble in this case?)
+  * When limited by legacy code (e.g. a framework expects an NSObject subclass)
+
+### Backlog
+
 * "Advanced Swift" by John McCall and Dave Abrahams
   * [Video](https://www.youtube.com/watch?v=g44U1937o0g)
 * "Simplicity Matters" by Rich Hickey
