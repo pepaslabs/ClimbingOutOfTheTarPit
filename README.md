@@ -17,9 +17,9 @@ It is time for you to climb [out of the tar pit](https://github.com/papers-we-lo
 
 # Resources
 
-* Talk: "Enemy of the State" by Justin Spahr-Summers
-  * Video: http://2014.funswiftconf.com/speakers/justin.html
-  * Slides: https://github.com/jspahrsummers/enemy-of-the-state/tree/funswiftconf-2014
+* "Enemy of the State" by Justin Spahr-Summers ([2014 Functional Swift Conference](http://2014.funswiftconf.com/))
+  * [Video](http://2014.funswiftconf.com/speakers/justin.html)
+  * [Slides](https://github.com/jspahrsummers/enemy-of-the-state/tree/funswiftconf-2014)
 
 # Papers to re-read:
 
