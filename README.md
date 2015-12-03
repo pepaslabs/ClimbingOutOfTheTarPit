@@ -54,3 +54,8 @@ Ideas:
 ### "Pattern: Backends For Frontends" by Sam Newman
 
 * [Website](http://samnewman.io/patterns/architectural/bff/)
+
+### Unsorted
+
+* http://www.programmableweb.com/news/how-to-enable-.net-web-api-protocol-buffer-support/how-to/2015/09/11
+* 
