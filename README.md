@@ -116,3 +116,4 @@ Ideas:
 * [SCNA 2012 videos](https://vimeo.com/search?q=scna+2012)
 * [SCNA 2013 videos](https://vimeo.com/search?q=scna+2013)
 * https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6
+* http://www.jonathanholloway.co.uk/thesis/MPhilThesis.pdf
