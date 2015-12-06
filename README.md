@@ -3,7 +3,7 @@ Resources for becoming a better programmer.
 
 # Rationale
 
-"This code is hard to follow."
+"This code is a bunch of spaghetti."
 
 "I fixed one bug and several new bugs appeared."
 
@@ -85,9 +85,13 @@ Ideas:
     * Minimizing the number of conditionals in the imperative shell
 
 ### "Boundaries" by Gary Bernhardt
-  * [Video](https://www.destroyallsoftware.com/talks/boundaries) (SCNA 2012)
-  * [Video](https://www.youtube.com/watch?v=yTkzNHF6rMs) (RubyConf 2012)
-  * [Video](http://pyvideo.org/video/1670/boundaries) (PyCon 2013)
+* [Video](https://www.destroyallsoftware.com/talks/boundaries) (SCNA 2012)
+* [Video](https://www.youtube.com/watch?v=yTkzNHF6rMs) (RubyConf 2012)
+* [Video](http://pyvideo.org/video/1670/boundaries) (PyCon 2013)
+
+### "The Functional Way" by Natasha Murashev
+* [Video](https://www.youtube.com/watch?v=tohEJSq9gds)(2014 Functional Swift Conference)
+* [Conference talk page](http://2014.funswiftconf.com/speakers/natasha.html)
 
 ### Backlog
 
