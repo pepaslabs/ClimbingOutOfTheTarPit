@@ -90,7 +90,7 @@ Ideas:
 * [Video](http://pyvideo.org/video/1670/boundaries) (PyCon 2013)
 
 ### "The Functional Way" by Natasha Murashev
-* [Video](https://www.youtube.com/watch?v=tohEJSq9gds)(2014 Functional Swift Conference)
+* [Video](https://www.youtube.com/watch?v=tohEJSq9gds) (2014 Functional Swift Conference)
 * [Conference talk page](http://2014.funswiftconf.com/speakers/natasha.html)
 
 ### Backlog
@@ -114,6 +114,8 @@ Ideas:
   * [Article](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/COMEFROM.md)
 * "Javascript Combinators" by Reginald "raganwald" Braithwaite
   * [Video](https://vimeo.com/97408202) (NDC 2014)
+* "Functional Testing" by Brian Gesiak
+  * [Video](http://2014.funswiftconf.com/speakers/brian.html) (2014 Functional Swift Conference)
 * [How to fix a bad user interface](https://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226) by Scott Hurff
 * [Destory All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 * https://gist.github.com/jhrr/7368923
