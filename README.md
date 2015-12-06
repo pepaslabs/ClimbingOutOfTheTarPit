@@ -122,3 +122,4 @@ Ideas:
 * https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6
 * http://www.jonathanholloway.co.uk/thesis/MPhilThesis.pdf
 * https://github.com/typelift
+* http://www.drewag.me/posts/practical-use-for-curried-functions-in-swift
