@@ -125,3 +125,5 @@ Ideas:
 * http://www.jonathanholloway.co.uk/thesis/MPhilThesis.pdf
 * https://github.com/typelift
 * http://www.drewag.me/posts/practical-use-for-curried-functions-in-swift
+* http://www.introtorx.com/
+* 
