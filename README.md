@@ -126,4 +126,5 @@ Ideas:
 * https://github.com/typelift
 * http://www.drewag.me/posts/practical-use-for-curried-functions-in-swift
 * http://www.introtorx.com/
-* 
+* "OMeta: an Object-Oriented Language for Pattern Matching" [Paper](http://tinlizzie.org/~awarth/papers/dls07.pdf)
+* "Real World Haskell" [Book](http://book.realworldhaskell.org/read/)
