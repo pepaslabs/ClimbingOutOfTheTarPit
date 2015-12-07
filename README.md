@@ -128,3 +128,6 @@ Ideas:
 * http://www.introtorx.com/
 * "OMeta: an Object-Oriented Language for Pattern Matching" [Paper](http://tinlizzie.org/~awarth/papers/dls07.pdf)
 * "Real World Haskell" [Book](http://book.realworldhaskell.org/read/)
+* https://vimeo.com/search?q=Reginald+Braithwaite
+* "Less - The Path to Better Design" [Video](https://vimeo.com/53154357)
+* "The Clean Architecture" by Robert Martin [Article](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
