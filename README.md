@@ -89,9 +89,27 @@ Ideas:
 * [Video](https://www.youtube.com/watch?v=yTkzNHF6rMs) (RubyConf 2012)
 * [Video](http://pyvideo.org/video/1670/boundaries) (PyCon 2013)
 
+### "Effective ML" by Yaron Minsky
+* [Video](https://vimeo.com/14313378)
+
+Ideas:
+* Make illegal states unrepresentable
+
 ### "The Functional Way" by Natasha Murashev
 * [Video](https://www.youtube.com/watch?v=tohEJSq9gds) (2014 Functional Swift Conference)
 * [Conference talk page](http://2014.funswiftconf.com/speakers/natasha.html)
+
+### "Functional Testing" by Brian Gesiak
+* [Video](https://www.youtube.com/watch?v=-TOp5-uComQ) (2014 Functional Swift Conference)
+* [Conference talk page](http://2014.funswiftconf.com/speakers/brian.html)
+
+### "Functioning as a Functionalist" by Andy Matuschak
+* [Video](https://www.youtube.com/watch?v=rJosPrqBqrA) (2014 Functional Swift Conference)
+* [Conference talk page](http://2014.funswiftconf.com/speakers/andy.html)
+
+### "Networking with Monads" by John Gallagher
+* [Video](https://www.youtube.com/watch?v=LqwrUmuodyY) (2014 Functional Swift Conference)
+* [Conference talk page](http://2014.funswiftconf.com/speakers/john.html)
 
 ### Backlog
 
@@ -114,8 +132,6 @@ Ideas:
   * [Article](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/COMEFROM.md)
 * "Javascript Combinators" by Reginald "raganwald" Braithwaite
   * [Video](https://vimeo.com/97408202) (NDC 2014)
-* "Functional Testing" by Brian Gesiak
-  * [Video](http://2014.funswiftconf.com/speakers/brian.html) (2014 Functional Swift Conference)
 * [How to fix a bad user interface](https://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226) by Scott Hurff
 * [Destory All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 * https://gist.github.com/jhrr/7368923
@@ -131,5 +147,3 @@ Ideas:
 * https://vimeo.com/search?q=Reginald+Braithwaite
 * "Less - The Path to Better Design" [Video](https://vimeo.com/53154357)
 * "The Clean Architecture" by Robert Martin [Article](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-* "Effective ML" by Yaron Minsky [Video](https://vimeo.com/14313378)
-  * "Make illegal states unrepresentable"
