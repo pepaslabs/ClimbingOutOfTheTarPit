@@ -147,3 +147,4 @@ Ideas:
 * https://vimeo.com/search?q=Reginald+Braithwaite
 * "Less - The Path to Better Design" [Video](https://vimeo.com/53154357)
 * "The Clean Architecture" by Robert Martin [Article](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* "A Little Respect for AnySequence" by Rob Napier [Article](http://robnapier.net/erasure)
