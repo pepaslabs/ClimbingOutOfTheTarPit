@@ -122,7 +122,10 @@ Ideas:
 * "Simple Made Easy" by Rich Hickey
   * [Presentation](http://www.infoq.com/presentations/Simple-Made-Easy) (requires Flash)
 * "Pattern: Backends For Frontends" by Sam Newman
-  * [Website](http://samnewman.io/patterns/architectural/bff/)
+  * [Article](http://samnewman.io/patterns/architectural/bff/)
+* "BFF @ SoundCloud" by Lukasz Plotnicki
+  * [Article](https://www.thoughtworks.com/insights/blog/bff-soundcloud)
+  * [HN Thread](https://news.ycombinator.com/item?id=10730806)
 * "Integration Tests Are a Scam" by J.B. Rainsberger
   * [Presentation](http://www.infoq.com/presentations/integration-tests-scam)
   * [Video](https://vimeo.com/80533536)
@@ -148,3 +151,5 @@ Ideas:
 * "Less - The Path to Better Design" [Video](https://vimeo.com/53154357)
 * "The Clean Architecture" by Robert Martin [Article](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * "A Little Respect for AnySequence" by Rob Napier [Article](http://robnapier.net/erasure)
+* "Protocols with Associated Types, and How They Got That Way" by Alexis Gallagher [Slides](https://speakerdeck.com/algal/protocols-with-associated-types-and-how-they-got-that-way)
+* 
